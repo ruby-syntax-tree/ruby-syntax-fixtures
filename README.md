@@ -2,7 +2,9 @@
 
 This repository contains a collection of Ruby syntax fixtures for testing. It is meant to be vendored as a git submodule in other projects. It should exercise all of the syntax that is supported by the Ruby parser.
 
-It is meant to be a minimally opinionated repository - it contains no prescribed AST structure or formatting output. It is up to the consuming project to decide how to parse the fixtures. At the moment, every fixture contains valid Ruby syntax.
+It is meant to be a minimally opinionated repository - it contains no prescribed AST structure or formatting output. It is up to the consuming project to decide how to parse the fixtures.
+
+At the moment, every fixture contains valid Ruby syntax. This is enforced through the `bin/lint.sh` script.
 
 ## Contributing
 
