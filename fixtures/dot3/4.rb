@@ -1,1 +1,1 @@
-foo... # comment
+(foo...) # comment

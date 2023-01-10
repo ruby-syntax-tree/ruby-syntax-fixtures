@@ -1,5 +1,5 @@
 result =
-  if false && val = 1
+  if falsy && val == 1
     "A"
   else
     "B"
