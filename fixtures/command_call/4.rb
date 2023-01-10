@@ -1,0 +1,1 @@
+expect(foo).to_not receive(fooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)

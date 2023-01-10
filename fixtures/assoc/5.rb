@@ -1,0 +1,5 @@
+{
+  foo: -> do
+    foooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+  end
+}

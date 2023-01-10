@@ -1,0 +1,3 @@
+module Foo
+  # comment
+end

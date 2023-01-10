@@ -1,0 +1,3 @@
+BEGIN { # comment
+  foo
+}

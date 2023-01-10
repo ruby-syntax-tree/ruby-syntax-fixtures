@@ -1,0 +1,3 @@
+yield( # comment
+  foo
+)

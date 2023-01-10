@@ -1,0 +1,7 @@
+<<~FOO
+  foooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+  foooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+  #{foo}
+  foooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+  foooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+FOO

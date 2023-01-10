@@ -1,0 +1,2 @@
+undef foo,
+      bar # comment

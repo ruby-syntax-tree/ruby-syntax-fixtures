@@ -1,0 +1,4 @@
+foo =
+  begin
+    bar
+  end

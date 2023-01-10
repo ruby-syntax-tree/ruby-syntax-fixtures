@@ -1,0 +1,5 @@
+if foooooooooooooooooooooooooooooooooooooooooo
+  not bar
+else
+  bazzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+end

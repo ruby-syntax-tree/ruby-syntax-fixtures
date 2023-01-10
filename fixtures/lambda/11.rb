@@ -1,0 +1,1 @@
+-> { -> foo do bar end.baz }.qux

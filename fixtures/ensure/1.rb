@@ -1,0 +1,4 @@
+begin
+ensure
+  foo
+end

@@ -1,0 +1,3 @@
+def foo( # comment
+)
+end

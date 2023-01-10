@@ -1,0 +1,2 @@
+def foo(*, post)
+end

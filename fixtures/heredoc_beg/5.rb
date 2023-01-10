@@ -1,0 +1,2 @@
+<<-`FOO`.strip
+FOO

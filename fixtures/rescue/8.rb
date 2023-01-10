@@ -1,0 +1,3 @@
+begin
+rescue ::Foo
+end

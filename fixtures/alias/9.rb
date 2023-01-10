@@ -1,0 +1,2 @@
+alias foo # comment
+      bar
